@@ -11,7 +11,7 @@ This repository contains the professional-grade core systems developed for **Pet
 
 ### 🚀 Key Technical Features:
 
-*   **Advanced Pet Management**: A robust system designed to handle **200+ unique pets**, including data structures for stats, rarities, and inventory management.
+*   **Advanced Pet Management**: A robust system designed to handle **unique pets**, including data structures for stats, rarities, and inventory management.
 *   **Secure Data Handling**: Implementation of professional data-saving patterns to ensure player progress (pets, currency, biomes) is persistent and secure.
 *   **Modular Architecture**: Built with a strict **Client-Server-Shared** structure using **Rojo**, allowing for clean code separation and professional workflow.
 *   **Optimized Game Logic**: High-performance scripts designed to maintain stability across various maps and complex biome transitions.
@@ -31,8 +31,3 @@ This repository contains the professional-grade core systems developed for **Pet
 *   `src/server`: Contains authoritative game logic, data stores, and backend pet systems.
 *   `src/client`: Handles user interface, local effects, and player interactions.
 *   `src/shared`: Houses modular code, constants, and utilities used by both server and client for maximum efficiency.
-
----
-
-### 📈 Evolution of Development:
-This system represents 6 years of experience in the Roblox industry, evolving from early projects like **Zombie Chase (2021)** to the highly optimized systems seen here in **Pet Obby**.
